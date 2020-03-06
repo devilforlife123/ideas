@@ -1,1 +1,1 @@
--[ ] Debugging with the Grace Hopper Method
+-[ ] Debugging with the Grace Hopper method which is very useful
